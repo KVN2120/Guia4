@@ -1,0 +1,16 @@
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\bin\Debug\Ejemplo2.0.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\bin\Debug\Ejemplo2.0.exe
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\bin\Debug\Ejemplo2.0.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.FrmBase.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.exe
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.FrmRegistro.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.FrmEstudiantes.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.FrmRegistroDocentes.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo2.0\Ejemplo2.0\obj\Debug\Ejemplo2._0.Menu.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejercicio1.0\Ejemplo2.0\bin\Debug\Ejemplo2.0.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejercicio1.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.exe
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejercicio1.0\Ejemplo2.0\obj\Debug\Ejemplo2.0.pdb

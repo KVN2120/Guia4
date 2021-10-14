@@ -1,0 +1,9 @@
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\kevin\OneDrive\Documentos\Guia4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
